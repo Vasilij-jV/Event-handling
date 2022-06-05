@@ -1,4 +1,4 @@
-import differentRandom, { generator } from '../mae2';
+import differentRandom, { generator } from '../eh2';
 
 test('random, non-recurring number', () => {
   const str = Array(...Array(32)).map(() => differentRandom(generator)).join('');
