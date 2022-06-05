@@ -1,4 +1,4 @@
 import './css/style.css';
-import funSet from './mae';
+import funSet from './eh1';
 
 funSet();

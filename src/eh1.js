@@ -1,6 +1,6 @@
 /* eslint-disable no-restricted-globals */
 import './css/style.css';
-import differentRandom, { generator } from './mae2';
+import differentRandom, { generator } from './eh2';
 
 export const cage = Array.from(document.querySelectorAll('.cage'));
 
